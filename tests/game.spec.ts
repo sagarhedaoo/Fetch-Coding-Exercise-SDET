@@ -13,7 +13,6 @@ test.describe("SDET Challenge", async () => {
   let browser: Browser;
   let context: BrowserContext;
   let page: Page;
-
   let weighingPans: Locator[];
   let goldCoins: number[] = [0, 1, 2, 3, 4, 5, 6, 7, 8];
   let weighings: string[] = [];
