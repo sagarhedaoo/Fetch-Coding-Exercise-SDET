@@ -1,5 +1,7 @@
 # Fetch SDET Take-Home Exercise
 
+[![Playwright Tests](https://github.com/sagarhedaoo/Fetch-Coding-Exercise-SDET/actions/workflows/playwright.yml/badge.svg?branch=main)](https://github.com/sagarhedaoo/Fetch-Coding-Exercise-SDET/actions/workflows/playwright.yml)
+
 ## Prerequisites
 
 Before you can run the program, make sure you have the following dependencies installed:
