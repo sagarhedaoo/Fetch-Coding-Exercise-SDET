@@ -1,0 +1,28 @@
+{
+  "name": "fetch_coding_exercise_sdet",
+  "version": "1.0.0",
+  "description": "Take-home coding challenge for an SDET role at Fetch",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarhedaoo/Fetch-Coding-Exercise-SDET.git"
+  },
+  "author": "Sagar Hedaoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagarhedaoo/Fetch-Coding-Exercise-SDET/issues"
+  },
+  "homepage": "https://github.com/sagarhedaoo/Fetch-Coding-Exercise-SDET/blob/main/Readme.md",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.8.3",
+    "node": "^18.15.0",
+    "typescript": "^5.2.2"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  }
+}
